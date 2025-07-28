@@ -1,4 +1,4 @@
-# enum_smb.sh
+# smbmap-tree.sh
 
 A Bash script to enumerate and optionally download files from accessible SMB shares on a target host.
 
@@ -14,4 +14,4 @@ A Bash script to enumerate and optionally download files from accessible SMB sha
 ## Usage
 
 ```bash
-./enum_smb.sh -i <ip> -u <username> -p <password> [-D]
+./smbmap-tree.sh -i <ip> -u <username> -p <password> [-D]
